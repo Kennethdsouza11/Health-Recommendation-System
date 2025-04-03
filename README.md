@@ -24,29 +24,6 @@ The system aims to help users understand the health implications of the ingredie
 - **Python**: The primary programming language used for the project.
 - **Streamlit**: For creating the web interface for users to interact with the application.
 
-## Installation
-
-Follow these steps to set up the project locally:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/health-recommendation-system.git
-    cd health-recommendation-system
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Set up the environment variables:
-   - You may need to set up API keys for external services (arXiv API, Wikipedia API, etc.). Please refer to the documentation for each API to get the necessary credentials.
-
-4. Run the application locally:
-    ```bash
-    streamlit run app.py
-    ```
-
 ## Usage
 
 1. Open the application in your browser by navigating to the provided local URL (usually `http://localhost:8501`).
